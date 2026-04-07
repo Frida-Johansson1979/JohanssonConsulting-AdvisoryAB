@@ -1,0 +1,89 @@
+Frida Johansson
+Services
+Experience
+About
+Contact
+FREELANCE ENGINEERING & PRODUCT LEADER
+I help teams build precise, purposeful software and the organisations to sustain them
+With 15+ years leading large, global engineering organisations, I partner with companies to tackle complex challenges, scale their teams, and ship things that matter.
+Let's work together
+My background
+
+PREVIOUSLY AT
+Spotify
+Voyado
+IKEA
+Sogeti
+HiQ
+
+WHAT I DO
+
+Engineering leadership
+Interim or fractional engineering leadership. I build teams, set technical strategy, and establish the culture and practices that make delivery reliable.
+
+Product & platform consulting
+From data platforms to AI-driven search — I help define roadmaps, clarify ownership, and turn ambiguity into execution.
+
+AI & team productivity
+Helping engineering teams understand how AI changes the way they work — from agent-based development to prompt engineering and tooling strategy.
+
+EXPERIENCE
+2024 – Present
+Voyado
+Director of Engineering — Search & Recommendation Platform
+Led Elevate, an AI-driven platform delivering real-time search and personalised recommendations to millions of end users. Managed 3 Senior Engineering Managers, 1 Product Architect, 1 Staff Engineer, and 2 Principal Engineers across an org of 47 engineers.
+2024
+IKEA
+Product Manager — Data Platform
+Established a dedicated product function within the Data Platform, defining roles, ownership, and ways of working. Moved internal data products from zero adoption to active usage across the organisation.
+2022 – 2024
+Spotify
+Director of Engineering — Data Processing
+Owned technical strategy and execution for a mission-critical data processing platform used across the company. Managed 4 Engineering Managers, 3 Staff Engineers, and 31 engineers across complex distributed systems.
+2019 – 2022
+Spotify
+Senior Engineering Manager — Data & Insights
+Led Data Foundations within a 300-person organisation, managing 9 Engineering Managers and 75 engineers. Owned technical strategy for Spotify's most critical data assets and spearheaded a major platform split to increase delivery speed.
+2018 – 2019
+Spotify
+Senior Engineering Manager — AdTech & Marketing
+Led engineering for Spotify's player-facing marketing and messaging platforms across ~30 engineers. Delivered real-time, personalised messaging for millions of users and led a company-wide personalised content initiative.
+2013 – 2018
+Spotify
+Engineering Manager & Product Manager — Client Platform
+Started as QA engineer and rapidly progressed to Product & Engineering Manager. Owned cross-functional release planning and execution for global releases reaching millions of users.
+2007 – 2013
+Sogeti & HiQ
+Consultant
+Worked as a consultant across multiple clients in software development, testing, and project management roles.
+2000 – 2001
+Telia Prosoft
+Software Developer
+Developed software in C++/MFC, laying the technical foundation for a career spanning engineering, product, and leadership.
+
+ABOUT
+I'm Frida — an engineering and product leader with 15+ years across roles as Director of Engineering, Product Manager, Project Manager, QA, and Software Engineer. That breadth isn't accidental: understanding every role in a team is what makes me a better leader.
+My passion sits at the intersection of business, technology, and people. I've worked in scale-ups and global corporations, always focused on the same things: rapid innovation, technical excellence, and developer productivity.
+Available for fractional, interim, and permanent engagements.
+15+
+Years in tech
+75+
+Engineers led
+6
+Global companies
+
+TESTIMONIALS
+"Frida stepped into all of this, with her hands-on approach of 'transformation through delivery'. Her wealth of experience, can-do attitude, and especially her warm heart have been invaluable. She's an asset to any organisation, providing both light and direction on whatever comes her way."
+Maj-Britt
+Global VP Platform Engineering, Ingka IKEA Group
+"Frida is dedicated to her work and is always striving to deliver with high quality. She is structured and organized. She also has a warmth and a big heart which shows in her caring for other people."
+Maria
+QA & Testing Specialist, Securitas Direct
+"She has a strong sense of responsibility and is always striving to make sure that she and her team is making a good job. Frida is very good at making sure that all of the team members are used at the best suited position."
+Anja
+Product Manager, ST-Ericsson
+
+Let's talk
+Working through a leadership transition, a platform challenge, or a strategic question? I'd love to hear what you're building — and whether I can help.
+✉
+[email protected]
